@@ -15,3 +15,7 @@ The player uses the arrow or WASD keys on the keyboard to make moves. The player
 - There will be n monsters in different parts of the maze. When the monsters are reached, the game should start again.
 - There are m pieces of gold in the maze and the collected gold is counted. At the end of the game, the number of collected gold is shown to the user.
 - All moves made are saved in a file.
+
+
+## Outout Example
+![Screenshot 2022-10-22 144044](https://user-images.githubusercontent.com/102357822/197337037-2403597c-9055-47a5-87f1-3f3f352543c5.png)
