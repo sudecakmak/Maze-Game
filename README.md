@@ -12,7 +12,7 @@ The player uses the arrow or WASD keys on the keyboard to make moves. The player
 - Arrow keys on the keyboard or WASD are used to perform player moves.
 - The program works for different mazes.
 - There may be a dead end in the maze. However, there be at least one exit in the maze.
-- There will be n monsters in different parts of the maze. When the monsters are reached, the game should start again.
+- There will be n monsters in different parts of the maze. When the monsters are reached, the game start again.
 - There are m pieces of gold in the maze and the collected gold is counted. At the end of the game, the number of collected gold is shown to the user.
 - All moves made are saved in a file.
 
